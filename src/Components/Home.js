@@ -14,7 +14,7 @@ function Home() {
               <h2 className="Header-two">SHOE CARNIVAL ONLINE SHOE STORE: SHOP SALES ON SHOES FOR THE ENTIRE FAMILY</h2>
           </div>
       </Container>
-              <img src="https://source.unsplash.com/weekly?shoe" alt="Shoe Image" className="Shoe-img"/>
+              <img src="https://source.unsplash.com/weekly?shoe" alt="Shoe " className="Shoe-img"/>
     </React.Fragment>
     </div>
   );
